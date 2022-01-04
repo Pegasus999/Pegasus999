@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Pegasus999
 - 👀 I’m interested in Web dev
 - 🌱 I’m currently learning Javascript/React
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me zoghmaradem420@gmail.com
 
 <!---
